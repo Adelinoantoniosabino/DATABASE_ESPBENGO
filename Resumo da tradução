@@ -1,0 +1,30 @@
+Um modelo relacional dados para grandes bancos de dados compartilhados
+
+Os futuros usuários de grandes bancos de dados
+devem ser protegido contra ter que  saber como os dados são organizados na máquina (representações inteira)
+
+Modelo e forma normal.
+Dados independência dos programas de aplicação e atividades terminais de autoatendimento emtipos de dados consistência que se espera
+que se torne problemática mesmo em sistema não-redutores
+
+  Dependência do caminho de acesso.Muitos dos existentes sistemas de formatados forncemaos usuários uma estrutura de árvore arquivos
+ou modelo de um pouco mais gerais dos dados.
+
+Uma visão relacional dos dados
+O termo relação é usado aqui em sua matemática aceite sentido matemático. Em muitos dados comerciais, governamentais científicos bancos,no entanto,
+alguydas relação são de degree(um grau de 30 não é incomum). Os usuários devem normalmente não se preupar em lembrar o domínio pedido de qualquer 
+relação.Por exemplo, o fornecedor do pedido, depois parte, depois prgeto, depois quantidade na relação oferta.
+
+Forma Normal 
+Uma relação cujos domínios pode ser representado em armazenamento uma homo-coluna bidimensional matriz génetica do tipo discutido acima.
+
+Redundância e consistência
+Operação de relacionamento uma vez que relação são conjuntos, todas as operações dê conjunto usuais são aplicáveis a eles. No entanto, o resultado
+ pode não ser uma relação; por exemplo a união de uma relação binária e uma relação ternária não é uma relação.
+
+
+
+
+
+
+
